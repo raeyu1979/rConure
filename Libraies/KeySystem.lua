@@ -1,4 +1,4 @@
-local Library = {}
+local ConureSystem = {}
 Library.MainColor = Color3.new(0.098, 0.098, 0.098)
 Library.BackgroundColor = Color3.new(0.137, 0.137, 0.137)
 Library.AccentColor = Color3.new(0.298, 0.447, 0.894)
